@@ -4,8 +4,6 @@
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pawarsakshi2004.github.io/Personal-Portfolio/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawarsakshi2004)
 
-![Profile views](https://komarev.com/ghpvc/?username=pawarsakshi2004&color=green&style=flat)
-
 ---
 
 ### 🚀 About Me
