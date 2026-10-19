@@ -56,5 +56,5 @@
 ### 🌟 Featured Projects
 
 * 🩺 **[Human Multiple Disease Prediction System](https://github.com/pawarsakshi2004/Human-Multiple-Disease-Prediction-System-Using-ML)**: A machine learning web application built with Python, Streamlit, and scikit-learn to assess patient risk for conditions like diabetes and heart disease.
-* * 📊 **[CodeAlpha Data Science Projects](https://github.com/pawarsakshi2004/CodeAlpha)**: A collection of data science and machine learning tasks built during my CodeAlpha internship using Python, data analysis tools, and predictive modeling algorithms.
+* 📊 **[CodeAlpha Data Science Projects](https://github.com/pawarsakshi2004/CodeAlpha)**: A collection of data science and machine learning tasks built during my CodeAlpha internship using Python, data analysis tools, and predictive modeling algorithms.
 * 🌐 **[Personal Portfolio](https://pawarsakshi2004.github.io/Personal-Portfolio/)**: A responsive personal developer portfolio showcasing projects, technical skills, and background built using React, Vite, and Tailwind CSS.
