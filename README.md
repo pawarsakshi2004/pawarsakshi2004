@@ -45,12 +45,14 @@
 ---
 
 
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawarsakshi2004&show_icons=true&theme=tokyonight&hide_border=true" alt="Sakshi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawarsakshi2004&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pawarsakshi2004&show_icons=true&theme=tokyonight" alt="Sakshi's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pawarsakshi2004&layout=compact&theme=tokyonight" alt="Most Used Languages" width="48%" />
 </div>
+
 
 ---
 
